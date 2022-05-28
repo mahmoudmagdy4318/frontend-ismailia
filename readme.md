@@ -1,0 +1,1 @@
+working directory => staging directory => local Repository => origin
