@@ -1,0 +1,1 @@
+const joiner  = (arr, joinChar) => arr.join(joinChar);
