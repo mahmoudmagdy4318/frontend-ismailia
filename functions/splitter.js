@@ -1,0 +1,1 @@
+const splitter = (str, splitChar) => str.split(splitChar);
